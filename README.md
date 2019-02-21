@@ -1,10 +1,6 @@
 # Machine-learning-in-action
 个人使用jupyter notebook整理的**peter的《机器学习实战》代码**，使其更有层次感，更加连贯，也根据自己的代码习惯，加了一些自己的修改，以及注释
 
-这是给自己做的笔记，贴出来，也是希望大家一起学习!
-
-**注**：原版所有代码[点击这里](https://www.manning.com/books/machine-learning-in-action)        GitHub整理的资源[apachecn/MachineLearning](https://github.com/apachecn/MachineLearning)   [这里](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
-
 内容包括：---
 
 adaBoost文件夹：AdaBoost元算法提高分类性能
