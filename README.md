@@ -3,8 +3,7 @@
 
 这是给自己做的笔记，贴出来，也是希望大家一起学习!
 
-**注**：原版所有代码[点击这里](https://www.manning.com/books/machine-learning-in-action)        GitHub整理的资源[apachecn/MachineLearning](https://github.com/apachecn/MachineLearning)
-[zheli](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+**注**：原版所有代码[点击这里](https://www.manning.com/books/machine-learning-in-action)        GitHub整理的资源[apachecn/MachineLearning](https://github.com/apachecn/MachineLearning)   [这里](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
 
 内容包括：---
 
