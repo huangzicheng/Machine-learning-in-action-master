@@ -21,7 +21,7 @@ logistic文件夹：batch GD + SGD
 
 pca文件夹：pca降维
 
-pca和svd的比较：关于pca和svd的区别和联系，理论参见[博客](http://blog.csdn.net/dark_scope/article/details/53150883)
+pca和svd的比较：关于pca和svd的区别和联系
 
 regress文件夹：线性回归 + 局部加权线性回归 + 岭回归 + 向前逐步回归 
 
@@ -31,4 +31,3 @@ svd文件夹：svd降维 + 协同过滤算法进行物品推荐
 
 svm文件夹：简化版smo实现svm(支持向量机)分类器
 
-# 完结
